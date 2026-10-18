@@ -11,6 +11,6 @@
 | [`profile/README.md`](profile/README.md) | The landing page shown on [github.com/Atelier-5](https://github.com/Atelier-5) |
 | [Atelier-5/atl-hub](https://github.com/Atelier-5/atl-hub) | Brand, Native Agile pedagogy, activity cards |
 
-**Try it. Break it. Fix it. Show it.** · Essayer. Démonter. Réparer. Montrer. · Probieren. Zerlegen. Reparieren. Zeigen.
+<p align="center"><img src="profile/github-social-preview.png" alt="Atelier-5: Try it. Break it. Fix it. Show it. The Thymio fleet in Webots" width="720"></p>
 
 <sub>GPL-3.0-or-later. The name "Atelier-5" and its logos are reserved, see <a href="https://github.com/Atelier-5/atl-hub/blob/main/TRADEMARKS.md">TRADEMARKS</a>.</sub>
