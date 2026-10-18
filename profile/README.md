@@ -17,6 +17,6 @@
 | | |
 |---|---|
 | [**atl-hub**](https://github.com/Atelier-5/atl-hub) | Brand, Native Agile pedagogy, activity cards · Identité, pédagogie, fiches · Marke, Pädagogik, Karten |
-| **atl-sim** *(coming soon)* | Webots worlds: the Thymio fleet on a challenge table · Mondes Webots · Webots-Welten |
+| [**atl-sim**](https://github.com/Atelier-5/atl-sim) | Webots worlds: the Thymio fleet on a challenge table · Mondes Webots · Webots-Welten |
 
 <sub>Atelier-5 is the education branch of D-LAB-5 and continues the earlier project Autre TechLab. Code and content: GPL-3.0-or-later; the name and logos are reserved (see <a href="https://github.com/Atelier-5/atl-hub/blob/main/TRADEMARKS.md">TRADEMARKS</a>).</sub>
